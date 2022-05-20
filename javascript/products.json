@@ -1,0 +1,62 @@
+{
+    "items":[
+        {
+            "sys": {"id":"1"},
+            "fields":{
+              "title":"Python Programing Mastercourse",
+              "price": 122.99,
+              "image":{"fields":{"file":{"url":"images/python.jpeg"}}}
+            }
+          },
+          {
+            "sys": {"id":"2"},
+            "fields":{
+              "title":"C++ Mastercourse",
+              "price": 110.99,
+              "image":{"fields":{"file":{"url":"images/c++.jpeg"}}}
+            }
+          }, {
+            "sys": {"id":"3"},
+            "fields":{
+              "title":"Web Development for beginners",
+              "price": 99.99,
+              "image":{"fields":{"file":{"url":"images/web1.jpeg"}}}
+            }
+          }, {
+            "sys": {"id":"4"},
+            "fields":{
+              "title":"Java Programing Mastercourse",
+              "price": 155.99,
+              "image":{"fields":{"file":{"url":"images/java.jpeg"}}}
+            }
+          },{
+            "sys": {"id":"5"},
+            "fields":{
+              "title":"Digital Marketing Full Course",
+              "price": 108.99,
+              "image":{"fields":{"file":{"url":"images/DM.jpeg"}}}
+            }
+          },{
+            "sys": {"id":"6"},
+            "fields":{
+              "title":"Advanced Web Development",
+              "price": 199.99,
+              "image":{"fields":{"file":{"url":"images/web2.jpeg"}}}
+            }
+          },{
+            "sys": {"id":"7"},
+            "fields":{
+              "title":"Data Structure and algorithms Full Course",
+              "price": 99.99,
+              "image":{"fields":{"file":{"url":"images/DSA.jpeg"}}}
+            }
+          },{
+        "sys": {"id":"8"},
+        "fields":{
+          "title":"Data Science Full Course",
+          "price": 128.99,
+          "image":{"fields":{"file":{"url":"images/data.jpeg"}}}
+        }
+      }
+    ]
+}
